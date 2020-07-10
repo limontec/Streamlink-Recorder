@@ -1,5 +1,6 @@
 # Streamlink-Recorder
-Record any live stream and upload automatic to your Google Drive
+Record any live stream and upload automatic to your Google Drive <br />
+Record Twitch, YouTube, Afreecatv, Facebook...
 
 # Usage
 Click on the "Open in Colab" button.
